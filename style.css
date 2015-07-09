@@ -1,0 +1,8 @@
+/* Styles go here */
+
+.menu-panel {
+  width: 100%;
+  z-index: 904;
+  padding-left: 20px;
+  padding-right: 20px;
+}
